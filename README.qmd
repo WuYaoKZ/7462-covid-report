@@ -11,6 +11,8 @@ editor: visual
 
 Report last run: `r Sys.time()`
 
+Add a line of change to the README.qmd file.
+
 ## Introduction
 
 This is an example report that uses COVID-19 data from the New York Times to illustrate the use of automation processes.
