@@ -1,7 +1,9 @@
-Minnesota COVID Report
-================
+# Minnesota COVID Report
 
-Report last run: 2023-04-06 22:07:43
+
+Report last run: 2024-03-01 21:14:38
+
+Add a line of change to the README.qmd file.
 
 ## Introduction
 
